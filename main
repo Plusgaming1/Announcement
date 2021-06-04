@@ -1,10 +1,8 @@
-{
-  Title = "Annoucnements released!";
-  Text = {
-    Main = [[
+Title = "Annoucnements released!";
+Text = {
+	Main = [[
     Announcements have been released!
     Check the board everyday for info!
     ]];
-    Other = "If I find you breaking a rule I will ban you";
-  };
-}
+	Other = "If I find you breaking a rule I will ban you";
+};
